@@ -2,7 +2,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{homework}
               [02/01/2020 v0.1
-	Homework Template Class in XeLaTeX for design assignments and solutions designed by Ali Mohammadpour at  Computer Engineering department of Amirkabir University of Technology (Tehran Polytechnic)
+	Homework Template Class in XeLaTeX for design assignments and solutions designed by Ali Mohammadpour at  Computer Engineering Department, Amirkabir University of Technology (Tehran Polytechnic)
  ]
  
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{book}}
@@ -15,7 +15,7 @@
 }
 
 % Semester Term: (1 or 2)
-\def\SemesterTerm{1}
+\def\SemesterTerm{2}
 
 % Semester Year: enter 1398 to generate  1398-1399
 \def\SemesterYear{1398}
@@ -39,7 +39,7 @@
 \def\DeadlineMin{59}
 
 % Homework Deadline Date (year, month, and day)
-\def\DeadlineYear{1398}
+\def\DeadlineYear{1399}
 \def\DeadlineMonth{12}
 \def\DeadlineDay{03}
 
